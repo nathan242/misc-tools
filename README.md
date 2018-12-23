@@ -8,3 +8,7 @@ findzeros.cpp - Program that finds contiguous zeros in a file.
 
 magicscan.cpp - Program that scans a file for magic patterns. Can be used to determin the contents of and aid in the extraction of data from unknown file formats.
 
+fdpos.c - Program that shows file descriptors and file pointer locations for a PID.
+
+rename\_to\_numbers.py - Program that renames files to numbers in the order that they are passed on the command line.
+
