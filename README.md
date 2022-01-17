@@ -12,3 +12,5 @@ fdpos.c - Program that shows file descriptors and file pointer locations for a P
 
 rename\_to\_numbers.py - Program that renames files to numbers in the order that they are passed on the command line.
 
+repl.php - PHP REPL with optional readline support and tab completion. Can be used when PHP interactive shell is not available.
+
